@@ -37,17 +37,17 @@ Como mencionamos anteriormente, el dataset utilizado trata sobre datos recolecta
     <tr>
         <td align="center">
         <a href="https://github.com/JaviCeRodriguez">
-            <img src="https://avatars.githubusercontent.com/u/68615684?v=4" width=130 height=110 />
+            <img src="https://avatars.githubusercontent.com/u/68615684?v=4" width=110 height=110 />
         </a>
         </td>
         <td align="center">
         <a href="https://github.com/mpierangeli">
-            <img src="https://avatars.githubusercontent.com/u/75583581?v=4" width=130 height=110 />
+            <img src="https://avatars.githubusercontent.com/u/75583581?v=4" width=110 height=110 />
         </a>
         </td>
         <td align="center">
         <a href="https://github.com/mraponi74">
-            <img src="https://avatars.githubusercontent.com/u/88469172?v=4" width=130 height=110 />
+            <img src="https://avatars.githubusercontent.com/u/88469172?v=4" width=110 height=110 />
         </a>
         </td>
         <td align="center">
