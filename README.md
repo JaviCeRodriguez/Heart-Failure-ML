@@ -1,4 +1,4 @@
-# Hearth Failure 💔 Machine Learning
+# Heart Failure 💔 Machine Learning
 
 Trabajo Práctico para la materia **Aprendizaje Automático** de UNSAM
 
