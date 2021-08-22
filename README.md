@@ -10,7 +10,37 @@ Luego de explorar los datos, seguiremos con la predicción y elección de un mod
 
 
 ## 📦 Dependencias y ejecución
-A definir
+Para poder trabajar localmente, se debe hacer lo siguiente **(líneas que empiezan con #, son el alternativo de la línea anterior para usuarios en Linux)**:
+1. Clonar el repositorio
+```
+cd ./carpeta/en/donde/clonar/repo
+git clone https://github.com/JaviCeRodriguez/Heart-Failure-ML.git
+```
+
+2. Crear un entorno virtual y activarlo
+```
+cd ./Heart-Failure-ML
+
+python -m venv myvenv
+# python3 -m venv my-project-env
+
+myvenv/Scripts/activate
+# source myvenv/bin/activate
+```
+
+3. Instalar librerías
+```
+pip install -r requirements.txt
+```
+Opcionalmente, pueden utilizar el entorno virtual creado por Anaconda!
+
+4. Para desactivar el entorno (si necesario)
+```
+deactivate
+```
+
+Estaremos trabajando en Notebook, pero daremos su versión en formato `*.py`. La Notebook tiene un acceso para verlo desde Google Colab, pero también pueden utilizar Jupyter Notebook si lo desean.
+
 
 ## 📋 Dataset
 
