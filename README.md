@@ -39,7 +39,9 @@ Opcionalmente, pueden utilizar el entorno virtual creado por Anaconda!
 deactivate
 ```
 
-Estaremos trabajando en Notebook, pero daremos su versión en formato `*.py`. La Notebook tiene un acceso para verlo desde Google Colab, pero también pueden utilizar Jupyter Notebook si lo desean.
+Estaremos trabajando en la notebook `main.ipynb`, pero daremos su versión en formato `*.py`. Podemos ejecutar la notebook
+en Jupyter Notebook, Google Colab o desde Visual Studio Code. Recomendamos utilizar PyCharm, ya que facilita la instalación
+de las librerías en el entorno virtual y de la extensión Jupyter Notebook.
 
 
 ## 📋 Dataset
