@@ -8,6 +8,8 @@ Trabajo Práctico para la materia **Aprendizaje Automático** de UNSAM
 A partir del dataset a trabajar (extraído de **Kaggle** [aquí](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data)) realizaremos las primeras prácticas de prueba para conocer el dataset en una Jupyter Notebook.
 Luego de explorar los datos, seguiremos con la predicción y elección de un modelo.
 
+[Paper original](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181001)
+
 
 ## 📦 Dependencias y ejecución
 Para poder trabajar localmente, se debe hacer lo siguiente **(líneas que empiezan con #, son el alternativo de la línea anterior para usuarios en Linux)**:
